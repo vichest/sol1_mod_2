@@ -131,7 +131,7 @@ export default function App() {
           [senderKeypair]
         );
         console.log(
-          "Signature is  4DU99UCPsEZmZgVs2VNFFVo3Pon24fyRw4Z5Go7VXn3wBpdag5dmk6ZPK1yhr9LRf94YP3VWrgEnpnn72YcMQNQ"
+          "Signature is "+signature;
         );
       } else {
         alert("wallet not initialized");
