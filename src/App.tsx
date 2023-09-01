@@ -131,7 +131,7 @@ export default function App() {
           [senderKeypair]
         );
         console.log(
-          "Signature is "+signature;
+          "Signature is "+signature
         );
       } else {
         alert("wallet not initialized");
